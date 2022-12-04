@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tertcoder
 - 👀 I’m interested in Front End Development 
 - 🌱 I’m currently learning JavaScript Data Structure and Algorithm even DOM
-- 💞️ I’m looking to collaborate with Back End Development 
+- 💞️ I’m looking to collaborate with a Back End Development 
 - 📫 How to reach me, contact me tuyishimirebt12@gmail.com
 
 <!---
