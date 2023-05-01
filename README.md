@@ -67,12 +67,6 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" /> </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40"
-      height="40" /> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40"
       height="40" /> </a>
@@ -81,6 +75,12 @@
       height="40" /> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40"
+      height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+      width="40" height="40" /> </a>
+  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40"
       height="40" /> </a>
 
 </p>
