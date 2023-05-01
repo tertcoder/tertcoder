@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bon Tertius</h1>
-<div style="width: 100%;height: 25rem;overflow: hidden;">
-  <img src="https://pbs.twimg.com/media/FoTrhJRXEAAn4fk?format=jpg&name=900x900" alt="meTertius" width="100%">
-</div>
 <h3 align="center">Young Burundian Coder | Web Developer -- JavaScript | Web Designer -- SCSS , TailwindCSS currently
   working with @Toussaint-Coder @liberatricebaizer</h3>
 
