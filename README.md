@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bon Tertius</h1>
 <h3 align="center">Young Burundian Coder | Web Developer -- JavaScript | Web Designer -- SCSS , TailwindCSS currently
   working with @Toussaint-Coder @liberatricebaizer</h3>
@@ -76,6 +75,8 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40"
       height="40" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt=" git"
+      width="40" height="40" /> </a>
 
 </p>
 <p><img align="left"
