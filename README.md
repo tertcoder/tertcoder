@@ -65,7 +65,7 @@
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40"
       height="40" /> </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
