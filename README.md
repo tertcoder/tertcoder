@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [(...soon)]((...soon))
 
-- 💬 Ask me about **html/css, tailwindcss, scss and js**
+- 💬 Ask me about **html/css, tailwindcss, scss and js, ui/ux design**
 
 - 📫 How to reach me **tuyishimirebt12@gmail.com**
 
