@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Advanced JavaScript, mastering web design**
 
-- 👨‍💻 All of my projects are available at [(...soon)]((...soon))
+- 👨‍💻 All of my projects are available to [(My Portfolio)]((https://bontert.netlify.app/))
 
-- 💬 Ask me about **html/css, tailwindcss, scss and js, ui/ux design**
+- 💬 Ask me about **html/css, tailwindcss, scss, js/ts, reactjs, ui/ux design**
 
 - 📫 How to reach me **tuyishimirebt12@gmail.com**
 
-- ⚡ Fun fact **Relaxing**
+- ⚡ Fun fact **Fitness 🏋🏻‍♂️☆🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
