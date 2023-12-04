@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced JavaScript, mastering web design**
 
-- 👨‍💻 All of my projects are available to [(My Portfolio)]((https://bontert.netlify.app/))
+- 👨‍💻 All of my projects are available to [(...My Portfolio)]((https://bontert.netlify.app/))
 
 - 💬 Ask me about **html/css, tailwindcss, scss, js/ts, reactjs, ui/ux design**
 
@@ -79,9 +79,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /> </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40"
-      height="40" /> </a>
+
 
 </p>
 <p><img align="left"
