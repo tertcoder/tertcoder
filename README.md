@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced JavaScript, mastering web design**
 
-- 👨‍💻 All of my projects are available to [(...My Portfolio)]((https://bontert.netlify.app/))
+- 👨‍💻 All of my projects are available to <a href="https://bontert.netlify.app/">My Portfolio</a>
 
 - 💬 Ask me about **html/css, tailwindcss, scss, js/ts, reactjs, ui/ux design**
 
