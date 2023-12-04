@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bon Tertius</h1>
-<h3 align="center">Young Burundian Coder | Web Developer -- JavaScript | Web Designer -- SCSS , TailwindCSS currently
-  working with @Toussaint-Coder @liberatricebaizer</h3>
+<h3 align="center">a Frontend Web Developer passionate about ReactJS and TypeScript. My code tells stories, and I'm currently crafting some in Flutter/Dart. UI Design enthusiast, fueled by Figma. Let's commit to excellence and build awesome things together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tertcoder&label=Profile%20views&color=0e75b6&style=flat"
     alt="tertcoder" /> </p>
@@ -14,7 +13,7 @@
 
 - 🔭 I’m currently working on **TBR Agency project with my team**
 
-- 🌱 I’m currently learning **Advanced JavaScript, mastering web design**
+- 🌱 I’m currently learning **Dart/Flutter, Mobile Development**
 
 - 👨‍💻 All of my projects are available to <a href="https://bontert.netlify.app/" target="_blank">My Portfolio</a>
 
