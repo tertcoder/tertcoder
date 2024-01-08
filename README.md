@@ -42,11 +42,6 @@
 <br clear="both">
 
 <h4 align="left">Let's connect</h4>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://linkedin.com/in/bon-tertius-tuyishimire-1a997321a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
