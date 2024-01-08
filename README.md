@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="236" src="https://avatars.githubusercontent.com/u/82041184?v=4"  />
+<div align="left">
+  <img align="right" height="236" src="https://avatars.githubusercontent.com/u/82041184?v=4"  />
+</div>
 
 ###
 
@@ -18,6 +20,7 @@
     my portfolio
   </a>
 </p>
+
 ###
 
 <h3 align="left">Tech 👨‍💻 & Tools🚀</h3>
