@@ -34,7 +34,8 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tertcoder.tertcoder&"  />
+<img align="left" src="https://komarev.com/ghpvc/?username=tertcoder&label=Profile%20views&color=0e75b6&style=flat"
+    alt="tertcoder"  />
 
 ###
 
