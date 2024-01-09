@@ -15,9 +15,9 @@
 
 ###
 
-<p align="left">a Frontend Web Developer passionate about ReactJS and TypeScript. My code tells stories, and I'm currently crafting some in Flutter/Dart. UI Design enthusiast, fueled by Figma. Let's commit to excellence and build awesome things together! 🚀</p>
-<p align="left"> Visit <a href="https://bontert.netlify.app/home" target="_blank">
-    my portfolio 🤗
+<p align="left" style="font-size:18px">a Frontend Web Developer passionate about <b>ReactJS</b> and <b>TypeScript</b>.<br> My code tells stories, and I'm currently crafting some in <b>Flutter/Dart</b>.<br> <b>UI Design</b> enthusiast, fueled by <b>Figma</b>.<br> Let's commit to excellence and build awesome things together! 🚀</p>
+<p align="left" style="font-size:18px"> Visit <a href="https://bontert.netlify.app/home" target="_blank">
+    <b>my portfolio</b> 🤗
   </a>
 </p>
 
